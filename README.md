@@ -1,8 +1,4 @@
-This is a pytorch implementation of the paper
 
->  Junjun Pan, Siyuan Wang, Junxuan Bai,  Ju Dai. Diverse Dance Synthesis via Keyframes with Transformer Controllers. Computer Graphics Forum, 2021.
-
-In this paper, we propose a novel keyframe-based motion generation network based on multiple constraints, which can achieve diverse dance synthesis via learned knowledge.
 
 ## Dependencies
 
